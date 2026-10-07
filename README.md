@@ -25,6 +25,6 @@ Or open Claude Code in the folder and ask: *Invoice September from sample-data/t
 One tax rate per client; no discounts or expenses; plain HTML, not a validated e-invoice format; check what your country requires. Not tax, legal or accounting advice.
 
 ## More
-This is one of six skills in the **Freelancer Ops Kit**: quotes with three-point estimates and milestone payments, scope-creep alerts with change-order values, an income dashboard, chasers and a rate calculator. [https://croucamp.gumroad.com/l/freelancer-ops-kit](https://croucamp.gumroad.com/l/freelancer-ops-kit)
+This is one of six skills in the **Freelancer Ops Kit**: quotes with three-point estimates and milestone payments, scope-creep alerts with change-order values, an income dashboard, chasers and a rate calculator. [https://sonneblomdigitaal.gumroad.com/l/freelancer-ops-kit](https://sonneblomdigitaal.gumroad.com/l/freelancer-ops-kit)
 
 MIT licensed.
